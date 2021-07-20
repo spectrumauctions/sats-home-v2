@@ -1,0 +1,37 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you: 
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+title: SATS
+email: sats@ifi.uzh.ch
+description: >- # this means to ignore newlines until "baseurl:"
+  SATS provides auction instance generators for a variety of spectrum auction value models.
+baseurl: /sats-home-preview # the subpath of your site, e.g. /blog
+url: https://miweiss.github.io # the base hostname & protocol for your site, e.g. http://example.com
+
+# Build settings
+# Note: We're using the unchanged just-the-docs theme, but for security reasons,
+# we load it from a fork controlled by us, instead of from the root repo.
+remote_theme: miweiss/just-the-docs
+plugins:
+  - jekyll-remote-theme
+
+# Aux links for the upper right navigation
+aux_links:
+  "Sources On GitHub":
+    - "//github.com/spectrumauctions/sats"
+
+footer_content: "
+Copyright M. Weiss, S.Seuken, B.Lubin, University of Zurich and Boston University. Distributed by an <a href=\"https://github.com/spectrumauctions/sats/blob/master/LICENSE\">AGPL-3.0 license.</a>"
+
+color_scheme: light
+
