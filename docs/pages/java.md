@@ -23,7 +23,7 @@ Both APIs are bundled in one package and deployed on Maven Central. Hence, with 
 This is enough information for Maven to download the dependency automatically.
 
 Alternative without Maven:
-The pre-compiled jar files are also available on Github (see [Home](https://spectrumauctions.org/)). You can include them in your project directly.
+The pre-compiled jar files are also available on [github](https://github.com/spectrumauctions/sats/releases). You can include them in your project directly.
 
 ## Examples
 To see how to use the respective APIs, check out the examples on GitHub:
