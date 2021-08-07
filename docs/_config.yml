@@ -15,7 +15,7 @@ title: SATS
 email: sats@ifi.uzh.ch
 description: >- # this means to ignore newlines until "baseurl:"
   SATS provides auction instance generators for a variety of spectrum auction value models.
-baseurl: /sats-home-preview # the subpath of your site, e.g. /blog
+baseurl: / # the subpath of your site, e.g. /blog
 url: https://spectrumauctions.org # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
