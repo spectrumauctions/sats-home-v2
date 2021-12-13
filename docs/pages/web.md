@@ -6,7 +6,7 @@ nav_order: 20
 ---
 # SATS Web Interface
 
-**For security reasons (Log4Shell), sats-web is temporarily unavailable. Please come back later. In the meantime consider running SATS locally.**
+**For security reasons (Log4Shell), sats-web is temporarily unavailable. Please come back later. In the meantime consider, running SATS locally.**
 
 <iframe 
 align="center" 
