@@ -10,4 +10,4 @@ nav_order: 20
 align="center" 
 frameborder="0" 
 height="1000" 
-src="https://cecil.ifi.uzh.ch/websats/" width="700"></iframe>
+src="https://websats.ifi.uzh.ch/websats/" width="700"></iframe>
