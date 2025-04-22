@@ -16,8 +16,4 @@ SATS was developed at the University of Zurich in collaboration with Boston Univ
 List of other contributors: [CONTRIBUTORS.md](https://github.com/spectrumauctions/sats-core/blob/master/CONTRIBUTORS.md)
 
 ## Contact
-If you have any questions or comments, please email us at: [sats@ifi.uzh.ch](mailto:sats@ifi.uzh.ch)
-
-Email List: If you use the SATS software, 
-please subscribe to our email list [here](https://lists.ifi.uzh.ch/listinfo/sats) such
- that we can inform you whenever we are releasing a new version of SATS.
+If you have any questions or comments, please contact us via [GitHub](https://github.com/orgs/spectrumauctions/people) or via contact information on our personal websites.

@@ -15,9 +15,8 @@ The SATS software provides auction instance generators for each of the value mod
  which enables users to quickly find the efficient allocation of the auction.
 
 ## Software
-SATS can be accessed in four different ways, to ensure it can be used for very basic and very sophisticated use cases. 
+SATS can be accessed in three different ways:
 
-- [Web Interface](./sats-web)
 - [Java CLI](./sats-cli)
 - [Java API](./sats-java)
 - [Python API](./sats-python)
